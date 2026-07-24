@@ -1,0 +1,5 @@
+.env
+.env.end
+.env.enx
+*.envy
+node_modules
